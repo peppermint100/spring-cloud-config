@@ -1,6 +1,6 @@
 token:
   expirationTime: 86400000
-  secret: secret
+  secret: newtoken
 
 gateway:
   ip: 192.168.45.3
