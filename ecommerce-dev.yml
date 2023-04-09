@@ -1,6 +1,6 @@
 token:
   expirationTime: 86400000
-  secret: dev-secret-#2
+  secret: '{cipher}AQCEqYf5vz5xcfD6sw5UMJ58OGmFCJS02TuBXy5/ZeMcdUexZfD3enaQ6mr3jLYdIfWIlndc4cL9p+HBuwZVphaeUE4De7/gQmf9EVLs32YPGWssCXc7NuptXKPNbn1SpSzbUdkf7WtTLD6bWQZTQWYGo/JgQsUVw4PGYNJr8iifT1F3BvSXXNnyzaXsG/njz6AWx/LUludC10gr02GJSy1PdHVyNS254+DVM0kXOCPy1/JxV1rN85mPOy1x16iGjdLTspU/vIhaiV8yg7/RIJF+J/I/qhUbfc91p8s+8KMhb7iiz5Npk2b28Qg1iVNK7jJcc1OUUcI3j4/tceCcZxn0fC7LemL7sCZKqlKaIan5n0BDBQNlHoX5evqPr8F3Qn8=' 
 
 gateway:
   ip: 192.168.45.3
