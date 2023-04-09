@@ -3,4 +3,11 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: 1234
+    password: '{cipher}AQCJYGjNyz51v64J41ZmQCz7BsDKvjzUBwdmr8V5U2SGnCVpGKdqhTvPP9WsyLk2k24crdqSc9+BiLbjbZOgII1qnsSP7f0FiaMEvEum0sr/ZjUGrQnvQDNN0aDj5HMq+lv+0gnwceWThkOIgSrcWiy0C56Mz6smSlKli607ahhj9ero+4IZyURBx2W95Y1ZI8lciVXz0zPvGAEyCx3P1hOFodZ+/bBeAmO5mNcxima0kGGN6U9/MDgleIK/AcIaWmWbUzoVOJPmqSoGoEtYSTsRwu5eEG3MdJwhGrvvRqdv8GN0F3Df2pGu9BX0jkyWGEaLlqV+n/P5sNkIJK3bDNhZ6/BZWuJbgpy3CJXrItkBxuqFjmu255Xz7ErZzDT2meQ='
+
+token:
+  expirationTime: 86400000
+  secret: secret
+
+gateway:
+  ip: 192.168.45.3
